@@ -1,0 +1,330 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19043.1348; Version 2009; 64bit' Language: 'pt' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/A040267/OneDrive - Maieutica/sem2-AVI/AVIProject_1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57291
+Successfully changed project path to: C:/Users/A040267/OneDrive - Maieutica/sem2-AVI/AVIProject_1
+C:/Users/A040267/OneDrive - Maieutica/sem2-AVI/AVIProject_1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/A040267/OneDrive - Maieutica/sem2-AVI/AVIProject_1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002180 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.972 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1972ms)
+		BeginReloadAssembly (50ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (372ms)
+			LoadAssemblies (49ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (134ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (27ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (65ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Domain Reload Profiling:
+	ReloadAssembly (882ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (705ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (272ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1591 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 3.956600 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.066300 ms MarkObjects: 3.566800 ms  DeleteObjects: 0.118800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/T90
+  artifactKey: Guid(f5f0e8a025268a646b3234395234a200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90 using Guid(f5f0e8a025268a646b3234395234a200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def803805b7162f1a50fd3e5eea976f3') in 0.011615 seconds 
+  Import took 0.014726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/T90/T90models/T90LPtraks.fbx
+  artifactKey: Guid(dee5f2de5ff0aec48a3af116ec70f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90models/T90LPtraks.fbx using Guid(dee5f2de5ff0aec48a3af116ec70f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea40ae9b75b2767c4b63aa150106e26') in 0.191679 seconds 
+  Import took 0.194433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/T90/T90models/T90LP.fbx
+  artifactKey: Guid(6118207091096d94482fb6be313ac6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90models/T90LP.fbx using Guid(6118207091096d94482fb6be313ac6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd4c09a6e78c9b7a7cf14b2be2119c5') in 0.131200 seconds 
+  Import took 0.133540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/T90/T90models
+  artifactKey: Guid(5befa67ff55176348a9d042fc69a58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90models using Guid(5befa67ff55176348a9d042fc69a58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e288f8f09c39c3b4b52b05b46c8a4068') in 0.005595 seconds 
+  Import took 0.007686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.822369 seconds.
+  path: Assets/T90/T90U5prefabs
+  artifactKey: Guid(c2f8bdd4661b8f645a123976e905bcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs using Guid(c2f8bdd4661b8f645a123976e905bcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6111d288d81bd4421b63e0e9cf610a3f') in 0.006397 seconds 
+  Import took 0.009469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/T90/T90U5prefabs
+  artifactKey: Guid(c2f8bdd4661b8f645a123976e905bcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs using Guid(c2f8bdd4661b8f645a123976e905bcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6111d288d81bd4421b63e0e9cf610a3f') in 0.002889 seconds 
+  Import took 0.005790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069439 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP Desert Camo.prefab
+  artifactKey: Guid(3b95bec82dae4484eafd516e73cc2623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP Desert Camo.prefab using Guid(3b95bec82dae4484eafd516e73cc2623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8133f3f9c1f68318365084fe00902be3') in 0.480834 seconds 
+  Import took 0.484266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP UrbanCamo.prefab
+  artifactKey: Guid(102a65255450179459b9b28e545a2d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP UrbanCamo.prefab using Guid(102a65255450179459b9b28e545a2d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da1f5bbb2549107f69c6aec17afbcad') in 0.030309 seconds 
+  Import took 0.033373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP Desert.prefab
+  artifactKey: Guid(7e65c1f943c4ccf40ae1d463bc024c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP Desert.prefab using Guid(7e65c1f943c4ccf40ae1d463bc024c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683db8c11439139f499c4855ef89d07a') in 0.038596 seconds 
+  Import took 0.041640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP ForrestWavyCamo.prefab
+  artifactKey: Guid(7ec0249beb2a6944c8d54d4a46ef1b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP ForrestWavyCamo.prefab using Guid(7ec0249beb2a6944c8d54d4a46ef1b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df21fd889eaf2c7feb79538540b5323d') in 0.026981 seconds 
+  Import took 0.030883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP Green.prefab
+  artifactKey: Guid(cb4fd6a623385fb4fb454f9e6c5c6cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP Green.prefab using Guid(cb4fd6a623385fb4fb454f9e6c5c6cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bf8d0c311f148bf0087c906d3b009f') in 0.026416 seconds 
+  Import took 0.029322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/T90/T90U5prefabs/T90LP ForrestCamo.prefab
+  artifactKey: Guid(b5d023135bcb7f348bcb343326045412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/T90U5prefabs/T90LP ForrestCamo.prefab using Guid(b5d023135bcb7f348bcb343326045412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c823e10180c73f95c50dec3792943f4b') in 0.028096 seconds 
+  Import took 0.030905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.063495 seconds.
+  path: Assets/T90/Demo
+  artifactKey: Guid(c548754fcf2168f4981e7529f1fc811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/Demo using Guid(c548754fcf2168f4981e7529f1fc811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357484c22dfa78dacb034ec1baa441d3') in 0.007201 seconds 
+  Import took 0.010136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/T90/Demo
+  artifactKey: Guid(c548754fcf2168f4981e7529f1fc811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/Demo using Guid(c548754fcf2168f4981e7529f1fc811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357484c22dfa78dacb034ec1baa441d3') in 0.003124 seconds 
+  Import took 0.006615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.004490 seconds.
+  path: Assets/T90/Demo/T90demo.unity
+  artifactKey: Guid(7aed392fc48b47b4e8b809aead62a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/T90/Demo/T90demo.unity using Guid(7aed392fc48b47b4e8b809aead62a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6551d8f7c5a4fe6d035d59756be511') in 0.008426 seconds 
+  Import took 0.011473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.171265 seconds.
+  path: Assets/Scenes/Lherme.unity
+  artifactKey: Guid(37b3d1a6ce75d7d4ba77275d33684b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lherme.unity using Guid(37b3d1a6ce75d7d4ba77275d33684b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182cec94b5ca0bd52bef8060c91f33a2') in 0.006783 seconds 
+  Import took 0.009650 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003008 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Domain Reload Profiling:
+	ReloadAssembly (888ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (713ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (253ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (174ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1570 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2040.
+Total: 2.773700 ms (FindLiveObjects: 0.137000 ms CreateObjectMapping: 0.038200 ms MarkObjects: 2.580200 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 263.097240 seconds.
+  path: Assets/Animation/T90/T90LP Desert.controller
+  artifactKey: Guid(cdba62b0dcb3c8542bc80963b7501999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/T90/T90LP Desert.controller using Guid(cdba62b0dcb3c8542bc80963b7501999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03d11b2b645793e212d9efa7e13809d') in 0.014413 seconds 
+  Import took 0.017143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001160 seconds.
+  path: Assets/Animation/T90/T90LP Desert.controller
+  artifactKey: Guid(cdba62b0dcb3c8542bc80963b7501999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/T90/T90LP Desert.controller using Guid(cdba62b0dcb3c8542bc80963b7501999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03d11b2b645793e212d9efa7e13809d') in 0.003018 seconds 
+  Import took 0.005286 seconds .
+
