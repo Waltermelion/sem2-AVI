@@ -4,7 +4,7 @@ public class Playercontroller : MonoBehaviour
 {
     private Rigidbody rb;
     [SerializeField] private Vector3 resetPosition;
-    public int tentativas = 2;
+    public int tentativas = 3;
     private bool collided = false;
 
     private void Start()

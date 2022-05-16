@@ -19,7 +19,7 @@ public class PinController : MonoBehaviour
         {
             SceneManager.LoadScene("victory");
         }
-        else if(ammountFallen < 10 && GameObject.Find("bowlingball").GetComponent<Playercontroller>().tentativas < 1)
+        else if(ammountFallen < 10 && GameObject.Find("bowlingball").GetComponent<Playercontroller>().tentativas == 0)
         {
             SceneManager.LoadScene("lose");
         }
