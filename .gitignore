@@ -1,9 +1,9 @@
-Gmeneses_16_05[Ll]ibrary/
-Gmeneses_16_05[Tt]emp/
-Gmeneses_16_05[Oo]bj/
-Gmeneses_16_05[Bb]uild/
-Gmeneses_16_05[Bb]uilds/
-Assets/AssetStoreTools*
+Gmeneses_16_05/[Ll]ibrary/
+Gmeneses_16_05/[Tt]emp/
+Gmeneses_16_05/[Oo]bj/
+Gmeneses_16_05/[Bb]uild/
+Gmeneses_16_05/[Bb]uilds/
+Gmeneses_16_05/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
