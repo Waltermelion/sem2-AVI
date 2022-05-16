@@ -40,7 +40,7 @@ public class Playercontroller : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (!collided)
+        if (!collided && other.gameObject.name == "GameEventTrigger")
         {
             tentativas -= 1;
             collided = true;
