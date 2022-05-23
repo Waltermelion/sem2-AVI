@@ -288,3 +288,34 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 972.274392 seconds.
+  path: Assets/02_materials/heart.mat
+  artifactKey: Guid(ec5a528a6c3cda54fa8946c254a2f2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_materials/heart.mat using Guid(ec5a528a6c3cda54fa8946c254a2f2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17eea9a05d51021f51c733360544342f') in 0.094076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.677432 seconds.
+  path: Assets/02_materials/file-20220114-28-2c4vs6.avif
+  artifactKey: Guid(d5d7d930ae7350f4fadf17f2a8888ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_materials/file-20220114-28-2c4vs6.avif using Guid(d5d7d930ae7350f4fadf17f2a8888ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98bca68a1dfb7b3b4fac0105b8e36ba') in 0.013302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.532231 seconds.
+  path: Assets/02_materials/template-sticker-600x600.png
+  artifactKey: Guid(7ea14347ccdbed949a2d86b74633bebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_materials/template-sticker-600x600.png using Guid(7ea14347ccdbed949a2d86b74633bebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250bc72935bf2fdf8df92f11671467d3') in 0.021736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.990741 seconds.
+  path: Assets/02_materials/template-sticker-600x600.png
+  artifactKey: Guid(7ea14347ccdbed949a2d86b74633bebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_materials/template-sticker-600x600.png using Guid(7ea14347ccdbed949a2d86b74633bebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9f5e3c4ff5a3cb5ed7b5ca09b85fb3') in 0.028237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.196529 seconds.
+  path: Assets/02_materials/heart.mat
+  artifactKey: Guid(ec5a528a6c3cda54fa8946c254a2f2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_materials/heart.mat using Guid(ec5a528a6c3cda54fa8946c254a2f2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e32dbb608615de473b5b177bfdf1453') in 0.025036 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
